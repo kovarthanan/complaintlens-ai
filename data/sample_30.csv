@@ -1,0 +1,31 @@
+Complaint ID,Date received,Submitted via,Product,Sub-product,Issue,State,Consumer complaint narrative
+NB-20401,2026-11-16,Web,Checking or savings account,Checking account,Problem with a lender or other company charging your account,TX,"$1,250 ACH debit I never authorized hit account 004512339871 on 11/14. Called twice, no provisional credit yet. Reach me at 512-555-0198."
+NB-20402,2026-11-16,Social media,Credit card,General-purpose credit card,Problem with a purchase shown on your statement,NY,"There is a $2,400 charge on my card 4111 1111 1111 1111 from a store I've never been to. Freeze it NOW."
+NB-20403,2026-11-16,App review,Checking or savings account,Checking account,Managing an account,FL,"No puedo entrar a la app, el código de verificación nunca llega. Ya van 2 días."
+NB-20404,2026-11-16,Phone,Mortgage,Conventional home mortgage,Trouble during payment process,CA,My escrow payment jumped $310 with no notice. Rep said they can't explain it.
+NB-20405,2026-11-17,Referral,Checking or savings account,Savings account,Problem caused by your funds being low,IL,Charged three $35 overdraft fees in one day even though my deposit was pending. SSN on file 123-45-6789.
+NB-20406,2026-11-17,Web,Credit card,General-purpose credit card,Fees or interest,OH,Late fee charged even though I paid on the due date. I have the confirmation email from autopay.
+NB-20407,2026-11-17,Email,"Money transfer, virtual currency, or money service",Domestic (US) money transfer,Fraud or scam,GA,"I was scammed through Zelle for $900 by someone pretending to be from the bank. Please help, my email is maria.lopez@example.com."
+NB-20408,2026-11-17,Web,Vehicle loan or lease,Loan,Struggling to pay your loan,AZ,Asked for a payment deferral after losing my job. Nobody has called back in 3 weeks.
+NB-20409,2026-11-18,Phone,Checking or savings account,Checking account,Closing an account,WA,"Account frozen for 10 days with no explanation. I cannot pay rent. Routing 021000021, account 778812345600."
+NB-20410,2026-11-18,App review,Checking or savings account,Checking account,Managing an account,NJ,App crashes every time I try to deposit a check on iPhone. Very frustrating.
+NB-20411,2026-11-18,Web,Credit card,Store credit card,Problem when making payments,PA,Payment posted two days late because your website was down. Now I have a late fee and interest.
+NB-20412,2026-11-18,Web,Mortgage,FHA mortgage,Applying for a mortgage or refinancing an existing mortgage,NC,Loan officer kept asking for the same documents and my rate lock expired. I lost my locked rate.
+NB-20413,2026-11-18,Phone,Checking or savings account,Savings account,Managing an account,TX,Mi madre de 82 años tiene cargos extraños en su cuenta. Alguien la llamó diciendo que era del banco.
+NB-20414,2026-11-19,Web,Credit card,General-purpose credit card,Problem with a purchase shown on your statement,MI,Disputed a charge for a TV that was never delivered. Dispute closed in the merchant's favor without asking me for proof.
+NB-20415,2026-11-19,Email,Checking or savings account,Checking account,Opening an account,CO,"Promised a $300 bonus for opening an account and setting up direct deposit. Did both, no bonus after 90 days."
+NB-20416,2026-11-19,Social media,Checking or savings account,Checking account,Managing an account,NV,Wait time on the phone was 2 hours. Terrible service. Call me 702-555-0144.
+NB-20417,2026-11-19,Web,Personal loan,Installment loan,Charged fees or interest you didn't expect,MD,Origination fee was not disclosed clearly before I signed the loan.
+NB-20418,2026-11-19,App review,Checking or savings account,Checking account,Managing an account,CA,"Love the new budgeting feature in the app, but please add dark mode."
+NB-20419,2026-11-20,Web,Credit card,General-purpose credit card,Getting a credit card,VA,Applied for a card and was denied with no reason given. I have excellent credit.
+NB-20420,2026-11-20,Web,Checking or savings account,Checking account,Problem caused by your funds being low,TX,Charged $35 overdraft fee twice on same day. Call me at 512-555-0198.
+NB-20421,2026-11-20,Phone,"Money transfer, virtual currency, or money service",International money transfer,Money was not available when promised,FL,Wire to my family in Mexico was sent 6 days ago and still not received. Envié 500 dólares y nada.
+NB-20422,2026-11-20,Referral,Debt collection,Credit card debt,Attempts to collect debt not owed,OK,Collector keeps calling about a credit card debt I already paid off in 2024. My name is John Carter.
+NB-20423,2026-11-21,Web,Checking or savings account,Checking account,Managing an account,MN,"Changed my address online but statements still go to my old address at 45 Pine Street, Duluth."
+NB-20424,2026-11-21,Email,Mortgage,Conventional home mortgage,Struggling to pay mortgage,OR,Applied for a loan modification 2 months ago. Every call I get a different answer.
+NB-20425,2026-11-21,Web,Credit card,General-purpose credit card,Fees or interest,IL,Annual fee charged even though the card was advertised as no annual fee for the first year.
+NB-20426,2026-11-21,Web,Checking or savings account,Checking account,Managing an account,TX,
+NB-20427,not a date,Web,Credit card,General-purpose credit card,Fees or interest,NY,Interest charged on a balance I paid in full.
+NB-20402,2026-11-16,Social media,Credit card,General-purpose credit card,Problem with a purchase shown on your statement,NY,Duplicate of NB-20402 that should be dropped.
+NB-20428,2026-11-22,Phone,Checking or savings account,Checking account,Managing an account,CA,   
+NB-20429,2026-11-22,Web,Vehicle loan or lease,Lease,Problem at the end of the loan or lease,GA,"Charged $1,800 for excess wear on my lease return without any photos or inspection report."
